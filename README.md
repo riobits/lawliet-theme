@@ -53,6 +53,7 @@ Required for the global menu widget to work with GTK applications:
 5. **Fastfetch:** Copy contents of `configs/fastfetch/` to `~/.config/fastfetch/`.
 6. **Rofi:** Copy `configs/rofi/config.rasi` and `configs/rofi/squared-lawliet.rasi` to `~/.config/rofi/`.
 7. **KDE Configs:** Carefully merge or replace `kdeglobals` and `plasma-org.kde.plasma.desktop-appletsrc` in `~/.config/`.
+8. **Desktop Effects:** Enable **Blur** and **Translucency** from `System Settings > Apps & Windows > Window Management > Desktop Effects`.
 
 ## 📜 Credits
 
