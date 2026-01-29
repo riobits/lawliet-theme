@@ -4,6 +4,7 @@ A custom "Death Note" inspired KDE Plasma customization. Not the best rice, but 
 
 ![Wallpaper Preview](assets/Screenshots/image-1.png)
 ![Wallpaper Preview](assets/Screenshots/image-2.png)
+![Global Menu Preview](assets/Screenshots/image-3.png)
 
 <!-- ![Wallpaper Preview](assets/Wallpaper.jpg) -->
 
@@ -36,6 +37,16 @@ Required for the global menu widget to work with GTK applications:
 - `appmenu-gtk-module`
 - `libdbusmenu-glib`
 - `libdbusmenu-gtk3`
+
+**Note:** Some applications like VSCode require manual configuration to work with the global menu. For VSCode:
+
+1. Set **Window: Title Bar Style** to `native` in VSCode settings
+2. Launch VSCode with: `code --ozone-platform=x11`
+
+To make this permanent, you can either:
+
+- Add the launch option to `~/.local/share/applications/code.desktop`
+- Use the KDE menu editor to modify the application launcher
 
 ### 3. Tools
 
