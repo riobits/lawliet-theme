@@ -61,10 +61,11 @@ To make this permanent, you can either:
 2. **Konsole:** Move `colors/Lawliet.colorscheme` to `~/.local/share/konsole/`.
 3. **Icons/Cursor:** Move `assets/kora-grey` and `assets/macOS-cursor` to `~/.local/share/icons/`.
 4. **Wallpaper:** Move `assets/Wallpaper.jpg` to your preferred wallpaper directory.
-5. **Fastfetch:** Copy contents of `configs/fastfetch/` to `~/.config/fastfetch/`.
-6. **Rofi:** Copy `configs/rofi/config.rasi` and `configs/rofi/squared-lawliet.rasi` to `~/.config/rofi/`.
-7. **KDE Configs:** Carefully merge or replace `kdeglobals` and `plasma-org.kde.plasma.desktop-appletsrc` in `~/.config/`.
-8. **Desktop Effects:** Enable **Blur** and **Translucency** from `System Settings > Apps & Windows > Window Management > Desktop Effects`.
+5. **Application Icon (Optional):** Use [logo.svg](logo.svg) for your application launcher icon.
+6. **Fastfetch:** Copy contents of `configs/fastfetch/` to `~/.config/fastfetch/`.
+7. **Rofi:** Copy `configs/rofi/config.rasi` and `configs/rofi/squared-lawliet.rasi` to `~/.config/rofi/`.
+8. **KDE Configs:** Carefully merge or replace `kdeglobals` and `plasma-org.kde.plasma.desktop-appletsrc` in `~/.config/`.
+9. **Desktop Effects:** Enable **Blur** and **Translucency** from `System Settings > Apps & Windows > Window Management > Desktop Effects`.
 
 ## 📜 Credits
 
